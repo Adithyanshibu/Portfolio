@@ -12,7 +12,7 @@ const introdata = {
         third: "Building skills",
     },
     description: "I am a UI/UX engineering student specializing in the developing and optimization of user-centric, functional, and intuitive useer experiences.",
-    your_img_url: "/assets/images/img1.jpg",
+    your_img_url: "/assets/images/img1.webp",
 };
 
 const dataabout = {
